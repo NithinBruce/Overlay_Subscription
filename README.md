@@ -45,4 +45,3 @@ This project involves creating a subscription overlay and settings page, utilizi
 ## Notes:
 
 - Ensure proper configuration of XAMPP and MySQL for database connection.
-- Customize the styling and functionality of the overlay and settings page as needed.
